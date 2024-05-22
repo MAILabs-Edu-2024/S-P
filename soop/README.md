@@ -3,7 +3,7 @@
 ## while.soop
 
 ```
-    namespace Foo {
+namespace Foo {
 	class A {
 		public def a():Unit {
 			while a < 3
