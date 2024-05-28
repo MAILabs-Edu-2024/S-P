@@ -7,3 +7,5 @@
 | Артур Адамов | Разработка парсера |
 
 # Документация
+
+https://0hesoyam0.github.io/beautifulSooP/
