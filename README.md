@@ -87,3 +87,18 @@ namespace Foo {
 	}
 }
 ```
+
+## fullClass.soop
+
+```
+namespace Foo {
+	class A {
+		private cat: Int = 1;
+		public dog: Int = 6;
+
+		public A(a: Int){}
+
+		protected def add(a: Int, b: Int):Int {}
+	}
+}
+```
