@@ -22,7 +22,7 @@ https://0hesoyam0.github.io/beautifulSooP/
 
 # Эссе
 
-link...
+https://0hesoyam0.github.io/the_essay/
 
 # Примеры программ
 
